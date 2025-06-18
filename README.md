@@ -23,6 +23,15 @@ function clasificar(a,b,c) {
     clasificar(a,b,c)
 ```
 ---
-### 2. 
+Metodos de arrays
+---
+### 1. Quitar el primer elemento de un array de frutas
+```javascript
+let frutas = ["manzana", "banana", "pera"];
+frutas.shift()
+console.log(frutas)
+```
+### 2. agregar numero al final de array de numeros
+
 
 
